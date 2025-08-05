@@ -1,6 +1,6 @@
 baseurl: '/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Python Coaching'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
@@ -11,7 +11,7 @@ logo:
   desktop_width: "120px"
 
 home: 
-  limit_services: 6
+  limit_services: 12
 
 collections:
   services:
@@ -19,13 +19,16 @@ collections:
     sort_by: weight
   team:
     output: true
+  pymodule:
+    output: true
+    sort_by: weight
 
 defaults:
   - scope:
       path: ""
-      type: "services"
+      type: "pyModule"
     values:
-      layout: "service"
+      layout: "pymodule"
   - scope:
       path: ""
       type: "team"
