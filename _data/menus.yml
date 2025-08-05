@@ -1,8 +1,11 @@
 main:
-  - name: "Services"
-    url: "/services/"
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Python Syllabus"
+    url: "/python-course/"
     weight: 2
-  - name: "Team"
+  - name: "Python Home Tutor Gurgaon"
     url: "/team/"
     weight: 3
   - name: "About"
@@ -19,3 +22,6 @@ footer:
   - name: "Contact"
     url: "/contact/"
     weight: 2
+  - name: "Python Home Tutor Gurgaon"
+    url: "/team/"
+    weight: 3
