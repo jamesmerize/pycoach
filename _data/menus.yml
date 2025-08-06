@@ -6,7 +6,7 @@ main:
     url: "/python-course/"
     weight: 2
   - name: "Python Home Tutor Gurgaon"
-    url: "/team/"
+    url: "/Python-home-tutor-in-gurgaon"
     weight: 3
   - name: "About"
     url: "/about/"
