@@ -4,11 +4,11 @@ title: 'Python Coaching'
 
 logo:
   mobile: "images/logo/logo3.png"
-  mobile_height: "64px"
-  mobile_width: "64px"
+  mobile_height: "128px"
+  mobile_width: "128px"
   desktop: "images/logo/logo.svg"
-  desktop_height: "64px"
-  desktop_width: "120px"
+  desktop_height: "128px"
+  desktop_width: "128px"
 
 home: 
   limit_services: 12  
