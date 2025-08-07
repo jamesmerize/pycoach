@@ -5,8 +5,8 @@ main:
   - name: "Python Syllabus"
     url: "/python-course/"
     weight: 2
-  - name: "Python Home Tutor Gurgaon"
-    url: "/Python-home-tutor-in-gurgaon"
+  - name: "Home Tutor"
+    url: "/home-tutor"
     weight: 3
   - name: "About"
     url: "/about/"
