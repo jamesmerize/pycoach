@@ -22,6 +22,6 @@ footer:
   - name: "Contact"
     url: "/contact/"
     weight: 2
-  - name: "Python Home Tutor Gurgaon"
-    url: "/team/"
+  - name: "Best Python Home Tutor Gurgaon"
+    url: "/home-tutor/gurgaon/python-home-tutor-in-gurgaon.html"
     weight: 3

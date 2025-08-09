@@ -43,11 +43,11 @@ bodyClass: "page-services"
           <div class="col-12 col-md-6 col-lg-6 order-2 order-md-1">
             <h2 class="mb-3">Why Choose Me for Python Home Tuition?</h2>
             <ul class="list-group list-group-flush">
-              <li class="list-group-item"> Personalized Teaching – from beginners to advanced</li>
-              <li class="list-group-item">CBSE & ICSE Curriculum Support</li>
-              <li class="list-group-item">Hands-on Coding Practice with real-world examples</li>
-              <li class="list-group-item">Flexible Timings (Weekdays & Weekends)</li>
-              <li class="list-group-item">Local Coverage: DLF, Sectors 56/57/50/49, Golf Course Rd, South City & more</li>
+              <li class="list-group-item mb-2"> Personalized Teaching – from beginners to advanced</li>
+              <li class="list-group-item mb-2">CBSE & ICSE Curriculum Support</li>
+              <li class="list-group-item mb-2">Hands-on Coding Practice with real-world examples</li>
+              <li class="list-group-item mb-2">Flexible Timings (Weekdays & Weekends)</li>
+              <li class="list-group-item mb-2">Local Coverage: DLF, Sectors 56/57/50/49, Golf Course Rd, South City & more</li>
             </ul>
            
     
@@ -56,10 +56,10 @@ bodyClass: "page-services"
           <div class="col-12 col-md-6 col-lg-6 order-1 order-md-2 position-relative">
             <h2 class="mb-3">About the Tutor</h2>
 
-            <ul>
-              <li>High school students ace Computer Science exams</li>
-              <li>Beginners build strong coding foundations</li>
-              <li>Professionals transition into tech or data fields</li>
+            <ul  class="list-group list-group-flush">
+              <li class="list-group-item mb-2">High school students ace Computer Science exams</li>
+              <li class="list-group-item mb-2">Beginners build strong coding foundations</li>
+              <li class="list-group-item mb-2">Professionals transition into tech or data fields</li>
             </ul>
           </div>
    
@@ -107,7 +107,7 @@ bodyClass: "page-services"
       <div class="service service-summary">
         <div class="service-content">
           <h2 class="service-title">
-            <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
+            <a href="{{ service.url | relative_url }}">{{ forloop.index }}. {{ service.title }}</a>
           </h2>
           <p>{{ service.excerpt | markdownify | strip_html | truncate: 100 }}</p>
         </div>
