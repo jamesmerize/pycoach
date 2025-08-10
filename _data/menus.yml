@@ -1,27 +1,29 @@
 main:
-  - name: "Home"
+  - name: "HOME"
     url: "/"
     weight: 1
-  - name: "Python Syllabus"
-    url: "/python-course/"
-    weight: 2
-  - name: "Home Tutor"
-    url: "/home-tutor"
+  - name: "GURGAON PYTHON HOME TUTOR"
+    url: "/home-tutor/gurgaon/python-home-tutor-in-gurgaon.html"
     weight: 3
-  - name: "About"
+  - name: "ABOUT"
     url: "/about/"
     weight: 4
-  - name: "Contact"
+  - name: "CONTACT"
     url: "/contact/"
     weight: 5
 
 footer:
-  - name: "Home"
-    url: "/"
-    weight: 1
-  - name: "Contact"
-    url: "/contact/"
+  - name: "Python Syllabus"
+    url: "/python-course/"
     weight: 2
   - name: "Best Python Home Tutor Gurgaon"
     url: "/home-tutor/gurgaon/python-home-tutor-in-gurgaon.html"
     weight: 3
+
+  - name: "About"
+    url: "/about/"
+    weight: 4
+
+  - name: "Contact"
+    url: "/contact/"
+    weight: 5

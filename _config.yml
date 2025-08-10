@@ -23,7 +23,7 @@ collections:
     output: true
     sort_by: weight
     permalink: /python-course/:name
-  home-tutor:
+  hometutor:
     output: true
     sort_by: weight
     permalink: /home-tutor/gurgaon/:name
