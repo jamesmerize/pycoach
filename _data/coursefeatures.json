@@ -1,0 +1,29 @@
+[
+  {
+    "title": "1-on-1 Tutoring",
+    "description": "Personalized online Python tutoring sessions tailored to your kid's learning pace and style.",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Interactive Learning",
+    "description": "Engaging lessons with hands-on coding exercises and real-world projects to enhance understanding.",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Flexible Scheduling",
+    "description": "Choose from a variety of time slots that fit your child's schedule, ensuring learning is convenient and stress-free.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]

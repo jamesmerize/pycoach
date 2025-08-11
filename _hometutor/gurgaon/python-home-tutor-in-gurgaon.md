@@ -1,5 +1,5 @@
 ---
-title: No 1. Python Home Tutor In Gurgaon
+title: No 1. Python Home Tutor In Gurgaon.
 layout: python-home-tutor-gurgaon
 description: Get Experienced Python Home Tutor In Gurgaon for your child who will become Python Pro in Just 12 weeks. Check the syllabus Now.
 intro_image: "images/illustrations/reading.svg"

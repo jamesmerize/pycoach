@@ -31,7 +31,7 @@ bodyClass: "page-services"
   </div>
 </div>
 
-<div class="container pt-6 pb-6">
+<div class="container pt-2 pb-6">
   <div class="row">
     <h2 class="text-center fs-1">🏡 Python Home Tutor in Gurgaon – Learn Python at Your Home</h2>
     <p>Looking for a Python home tutor in Gurgaon who can make coding simple, practical, and personalized?
@@ -98,8 +98,28 @@ bodyClass: "page-services"
 
   </div>
 </div>
+{% if site.data.coursefeatures %}
+<div class="strip strip-grey">
+  <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
+    <div class="row justify-content-center">
 
-<div class="container pt-6 pb-6">
+      {% for feature in site.data.coursefeatures %}
+      <div class="col-12 col-md-6 col-lg-4 mb-2">
+        <div class="feature">
+          {% if feature.image %}
+          <div class="feature-image"><img alt="{{ feature.title }} logo" src="{{ feature.image.url | relative_url }}" width="{{ feature.image.width }}" height="{{ feature.image.height }}" /></div>
+          {% endif %}
+          <h2 class="feature-title">{{ feature.title }}</h2>
+          <div class="feature-content">{{ feature.description }}</div>
+        </div>
+      </div>
+      {% endfor %}
+
+    </div>
+  </div>
+</div>
+{% endif %}
+<div class="container pt-2 pb-6" >
   <div class="row">
     <h1 class="text-center fs-1"> Python Course Syllabus</h1>
     {% for service in site.pymodule %}

@@ -6,10 +6,10 @@ main:
     url: "/home-tutor/gurgaon/python-home-tutor-in-gurgaon.html"
     weight: 3
   - name: "ABOUT"
-    url: "/about/"
+    url: "/about.html"
     weight: 4
   - name: "CONTACT"
-    url: "/contact/"
+    url: "/contact.html"
     weight: 5
 
 footer:
@@ -21,9 +21,9 @@ footer:
     weight: 3
 
   - name: "About"
-    url: "/about/"
+    url: "/about.html"
     weight: 4
 
   - name: "Contact"
-    url: "/contact/"
+    url: "/contact.html"
     weight: 5
