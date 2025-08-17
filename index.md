@@ -9,7 +9,7 @@ show_call_box: true
 ---
 <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
 
-<span style="font-family: 'Pacifico', cursive; font-size:40px; color:#ff6600;
+<span style="font-family: 'Pacifico', cursive; font-size:36px; color:#ff6600;
 font-weight:bold; 
              background: linear-gradient(90deg, #ff6600, #1e90ff); 
              -webkit-background-clip: text; 
