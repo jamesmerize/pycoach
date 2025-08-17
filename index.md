@@ -4,7 +4,7 @@ layout: home
 description: Python Coaching Online
 intro_image: "images/kids-learning-robotics.jpg"
 intro_image_absolute: true
-intro_image_hide_on_mobile: true
+intro_image_hide_on_mobile: false
 show_call_box: true
 ---
 <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
