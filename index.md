@@ -2,12 +2,24 @@
 title: Python Online Coaching
 layout: home
 description: Python Coaching Online
-intro_image: "images/illustrations/pointing.svg"
+intro_image: "images/kids-learning-robotics.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
+<link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
 
-# Easy Way To Master Python
+<span style="font-family: 'Pacifico', cursive; font-size:44px; color:#ff6600;
+font-weight:bold; 
+             background: linear-gradient(90deg, #ff6600, #1e90ff); 
+             -webkit-background-clip: text; 
+             color: transparent;
+">
+Today’s Dreamers, Tomorrow’s Achievers
+</span>
 
-Learn Python Programming in just 12 weeks from an industry expert, all from the comfort of your home.
+
+
+
+
+Interactive Python Learning, Combined with Robotics.
