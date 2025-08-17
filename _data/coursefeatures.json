@@ -1,5 +1,32 @@
 [
   {
+    "title": "Logical Thinking",
+    "description": "Develops critical thinking and problem-solving skills through structured Python programming lessons.",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Problem Solving",
+    "description": "Enhances your child's ability to tackle complex problems with step-by-step coding",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Decision Making",
+    "description": "Empowers kids to make informed decisions through coding challenges and projects.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
     "title": "1-on-1 Tutoring",
     "description": "Personalized online Python tutoring sessions tailored to your kid's learning pace and style.",
     "image": {
